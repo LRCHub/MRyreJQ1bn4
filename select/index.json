@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "アシンメトリー",
+  "base_artist": "なにわ男子",
+  "createdAt": "2025-12-24T01:36:29.906740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "れをる",
+      "has_synced": true,
+      "path": "select/01_アシンメトリー_れをる.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/02_アシンメトリー_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/03_アシンメトリー_Reol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アシンメトリー [Asymmetry]",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/04_アシンメトリー_[Asymmetry]_Reol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "Reol (れをる)",
+      "has_synced": true,
+      "path": "select/05_アシンメトリー_Reol_(れをる).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アシンメトリー(堀江由衣LIVE TOUR 2019文学少女倶楽部)",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/06_アシンメトリー(堀江由衣LIVE_TOUR_2019文学少女倶楽部)_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "Giga feat. Reol & L.Petty",
+      "has_synced": true,
+      "path": "select/07_アシンメトリー_Giga_feat._Reol_&_L.Petty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/08_アシンメトリー_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アシンメトリー - Asymmetry",
+      "artist": "Rei Yasuda",
+      "has_synced": false,
+      "path": "select/09_アシンメトリー_-_Asymmetry_Rei_Yasuda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "心 アシンメトリー [instrumental]",
+      "artist": "千菅春香",
+      "has_synced": false,
+      "path": "select/10_心_アシンメトリー_[instrumental]_千菅春香.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アシンメトリー(堀江由衣LIVE TOUR 2019文学少女倶楽部)",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/11_アシンメトリー(堀江由衣LIVE_TOUR_2019文学少女倶楽部)_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/12_アシンメトリー_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アシンメトリー",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/13_アシンメトリー_Yui_Horie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アシンメトリー",
+      "artist": "なにわ男子",
+      "has_synced": false,
+      "path": "select/pl_01_アシンメトリー_なにわ男子.txt"
+    }
+  ]
+}
